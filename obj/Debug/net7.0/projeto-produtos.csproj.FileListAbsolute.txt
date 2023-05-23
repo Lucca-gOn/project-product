@@ -1,0 +1,45 @@
+C:\Users\Lucas\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\projeto-produtos\bin\Debug\net7.0\projeto-produtos.exe
+C:\Users\Lucas\Desktop\projeto-produtos\bin\Debug\net7.0\projeto-produtos.deps.json
+C:\Users\Lucas\Desktop\projeto-produtos\bin\Debug\net7.0\projeto-produtos.runtimeconfig.json
+C:\Users\Lucas\Desktop\projeto-produtos\bin\Debug\net7.0\projeto-produtos.dll
+C:\Users\Lucas\Desktop\projeto-produtos\bin\Debug\net7.0\projeto-produtos.pdb
+C:\Users\Lucas\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.dll
+C:\Users\Lucas\Desktop\projeto-produtos\obj\Debug\net7.0\refint\projeto-produtos.dll
+C:\Users\Lucas\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.pdb
+C:\Users\Lucas\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\projeto-produtos\obj\Debug\net7.0\ref\projeto-produtos.dll
+C:\Users\51021784826\Desktop\projeto-produtos\bin\Debug\net7.0\projeto-produtos.exe
+C:\Users\51021784826\Desktop\projeto-produtos\bin\Debug\net7.0\projeto-produtos.deps.json
+C:\Users\51021784826\Desktop\projeto-produtos\bin\Debug\net7.0\projeto-produtos.runtimeconfig.json
+C:\Users\51021784826\Desktop\projeto-produtos\bin\Debug\net7.0\projeto-produtos.dll
+C:\Users\51021784826\Desktop\projeto-produtos\bin\Debug\net7.0\projeto-produtos.pdb
+C:\Users\51021784826\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.csproj.AssemblyReference.cache
+C:\Users\51021784826\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51021784826\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.AssemblyInfoInputs.cache
+C:\Users\51021784826\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.AssemblyInfo.cs
+C:\Users\51021784826\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.csproj.CoreCompileInputs.cache
+C:\Users\51021784826\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.dll
+C:\Users\51021784826\Desktop\projeto-produtos\obj\Debug\net7.0\refint\projeto-produtos.dll
+C:\Users\51021784826\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.pdb
+C:\Users\51021784826\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.genruntimeconfig.cache
+C:\Users\51021784826\Desktop\projeto-produtos\obj\Debug\net7.0\ref\projeto-produtos.dll
+C:\Users\Paulo Gonçalves\Desktop\projeto-produtos\bin\Debug\net7.0\projeto-produtos.exe
+C:\Users\Paulo Gonçalves\Desktop\projeto-produtos\bin\Debug\net7.0\projeto-produtos.deps.json
+C:\Users\Paulo Gonçalves\Desktop\projeto-produtos\bin\Debug\net7.0\projeto-produtos.runtimeconfig.json
+C:\Users\Paulo Gonçalves\Desktop\projeto-produtos\bin\Debug\net7.0\projeto-produtos.dll
+C:\Users\Paulo Gonçalves\Desktop\projeto-produtos\bin\Debug\net7.0\projeto-produtos.pdb
+C:\Users\Paulo Gonçalves\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.csproj.AssemblyReference.cache
+C:\Users\Paulo Gonçalves\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Gonçalves\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.AssemblyInfoInputs.cache
+C:\Users\Paulo Gonçalves\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.AssemblyInfo.cs
+C:\Users\Paulo Gonçalves\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Gonçalves\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.dll
+C:\Users\Paulo Gonçalves\Desktop\projeto-produtos\obj\Debug\net7.0\refint\projeto-produtos.dll
+C:\Users\Paulo Gonçalves\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.pdb
+C:\Users\Paulo Gonçalves\Desktop\projeto-produtos\obj\Debug\net7.0\projeto-produtos.genruntimeconfig.cache
+C:\Users\Paulo Gonçalves\Desktop\projeto-produtos\obj\Debug\net7.0\ref\projeto-produtos.dll
